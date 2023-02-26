@@ -1,0 +1,3 @@
+Model:	Log(GDP_per_capita) = a_0 + a_1*Log(Exports) + a_2*Political_Stability + a_3*Regulatory_Quality
+Model Intercept:	a_0 = 4.005487559100266
+Model Coeficients:	[a_1 a_2 a_3] = [0.20176794 0.59959807 0.58335849]
