@@ -572,7 +572,7 @@ def plot_cross_val_scores(scores, x_array=None, labels=None, x_label='Degrees', 
     if x_array is None:
         x_array = np.arange(scores.shape[1])+1
     fig, ax = plt.subplots()
-    for i in np.arange(scores.shape[1]):
+    for i in np.arange(scores.shape[0]):
         if i == 0:
             ax.plot(x_array, scores[i,:], styles[0], label=labels[0])
         else:
