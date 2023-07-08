@@ -1,4 +1,4 @@
-# LinRegExample1
+# Statistical-Analysis-Example-1
 This repository shows an example of some of the most recurrent tasks when doing inference on a model. In particular, this files produce a statistical analysis on some data downloaded from the World Bank Database. The scripts:
 
     Clean and prepare the data.
